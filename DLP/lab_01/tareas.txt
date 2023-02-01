@@ -1,0 +1,5 @@
+TAREAS
+
+1-Modelar todas las expresiones,sentencias y tipos del lenguaje
+2-Modelar todas las sentencias del lenguaje
+3-Complementar la interfaz type
